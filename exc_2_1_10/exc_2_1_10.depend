@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1492988926 source:c:\study\cpp\code_blocks\stepik_cpp\exc_cpp2\exc_2_1_10\main.cpp
-	<iostream>
-	<regex>
-	<string>
-	<map>
-
